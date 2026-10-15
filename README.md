@@ -42,4 +42,4 @@ I'm currently strengthening my backend development skills, building practical ap
 ## 📫 Connect With Me
 
 - **LinkedIn:** [siddarth jc | LinkedIn](https://www.linkedin.com/in/siddarth-jc-730ab2221/)
-- **Email:** [siddarthsiddhu5100@gmail.com](mailto\:siddarthsiddhu5100@gmail.com)
+- **Email:** [siddarthsiddhu5100@gmail.com](mailto:siddarthsiddhu5100@gmail.com)
